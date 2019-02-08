@@ -1,0 +1,34 @@
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\libtesseract.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\libtesseract.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.TemplateViewer.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.Properties.Resources.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.ImageViewer.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csproj.GenerateResource.Cache
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csprojResolveAssemblyReference.cache
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.dll
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\bin\Debug\libtesseract.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csprojResolveAssemblyReference.cache
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.TemplateViewer.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.Properties.Resources.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.ImageViewer.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csproj.GenerateResource.Cache
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.dll
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.pdb
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.dll
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\bin\Debug\ImageViewerOCR.pdb
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\bin\Debug\libtesseract.pdb
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.TemplateViewer.resources
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.Properties.Resources.resources
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\IPoVn.UI.ImageViewer.resources
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csproj.GenerateResource.cache
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csproj.CoreCompileInputs.cache
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csproj.CopyComplete
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.dll
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.pdb
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\bin\Debug\libtesseract.dll
+E:\myDevelopment\ImageViewerOCR\ImageViewerOCR\obj\Debug\ImageViewerOCR.csprojAssemblyReference.cache

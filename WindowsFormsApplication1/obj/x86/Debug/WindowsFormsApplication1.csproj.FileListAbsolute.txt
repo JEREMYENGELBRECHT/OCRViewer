@@ -1,0 +1,42 @@
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\libtesseract.dll
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\libtesseract.pdb
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.dll
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\libtesseract.pdb
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\E\Documents\Documents\Visual Studio 2010\Projects\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.dll
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\ImageViewerOCR.pdb
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\bin\Debug\libtesseract.pdb
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\myDevelopment\ImageViewerOCR\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
